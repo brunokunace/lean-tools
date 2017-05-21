@@ -30,5 +30,6 @@
           </q-drawer-link>
         </div>
       </q-drawer>
+       <router-view class="layout-view"></router-view>
   </q-layout>
 </template>
