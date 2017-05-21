@@ -1,13 +1,6 @@
 <template>
   <q-layout class="layout-padding">
-    <div>
-      <q-numeric
-        v-model="number"
-        :min="0"
-        :max="1000"
-        :step="10"
-      ></q-numeric>
-    </div>
+    <h1>Text</h1>
   </q-layout>
 </template>
 
